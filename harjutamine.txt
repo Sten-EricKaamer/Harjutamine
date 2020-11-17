@@ -1,0 +1,2 @@
+GitHub on väga kasutatav tarkvara, mida kasutatakse tavaliselt versiooni juhtimiseks. See on kasulik, kui projekti kallal töötab rohkem kui üks inimene.
+Seda õpivad inimesed, kes teemad mõnda meeskonna töö laadilist harjutust programmeerimise teemal.
